@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  VoiceLibrary.cpp
+     Creating library G:\CWorks\VoiceLibrary\VoiceLibrary\Release\VoiceLibrary.lib and object G:\CWorks\VoiceLibrary\VoiceLibrary\Release\VoiceLibrary.exp
+  Generating code
+  All 4748 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VoiceLibrary.vcxproj -> G:\CWorks\VoiceLibrary\VoiceLibrary\Release\VoiceLibrary.dll
